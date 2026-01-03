@@ -2240,3 +2240,33 @@ body {
   height: auto !important;
   min-height: unset !important;
 }
+
+/* ===============================
+   MOBILE SPACING FIX – VISIONARY
+================================ */
+
+@media (max-width: 576px) {
+  .vision-section {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .vision-section .container,
+  .vision-section .row,
+  .vision-section .col-md-6 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .vision-paragraph,
+  .muted-lead {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+}
+@media (max-width: 576px) {
+  .vision-section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}

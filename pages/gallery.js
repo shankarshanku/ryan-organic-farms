@@ -12,7 +12,7 @@ export default function Gallery() {
     { src: "/Hen.jpg", title: "Free Range Hens" },
     { src: "/eggs.jpg", title: "Farm Fresh Eggs" },
     { src: "/jayamrutha.png", title: "Jeevamrutham Mixing" },
-    { src: "/mango_land.png", title: "Mango Farm" },
+    { src: "/mango_land-v2.png", title: "Mango Farm" },
     { src: "/bangenpalli.png", title: "Bangenpalli Mangoes" },
     { src: "/neem_fertilizer.png", title: "Neem Fertilizer" },
     { src: "/cows.png", title: "300+ Cows" },
