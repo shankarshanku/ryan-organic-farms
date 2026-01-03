@@ -48,7 +48,7 @@ export default function Home() {
         <div className="left-image">
           <video
             className="hero-video"
-            src="/Home_Video.mp4"
+            src="/home-mobile.mp4"
             autoPlay
             muted
             loop
